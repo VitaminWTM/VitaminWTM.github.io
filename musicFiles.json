@@ -1,0 +1,27 @@
+[
+  {
+    "name": "點燃 新店行道會音樂 ",
+    "file": "musicFiles/點燃 新店行道會音樂 .mp3",
+    "type": "audio"
+  },
+  {
+    "name": "火把青年樂團―奇妙可畏",
+    "file": "musicFiles/火把青年樂團―奇妙可畏.mp4",
+    "type": "video"
+  },
+  {
+    "name": "奇妙恩典（現場版）｜黃友聞",
+    "file": "musicFiles/奇妙恩典（現場版）｜黃友聞.mp3",
+    "type": "audio"
+  },
+  {
+    "name": "大衛帳幕的榮耀【是祢是祢   It’s You, It’s You】Live Video - 約書亞樂團、馬永蒂 Matilda Ma",
+    "file": "musicFiles/大衛帳幕的榮耀【是祢是祢   It’s You, It’s You】Live Video - 約書亞樂團、馬永蒂 Matilda Ma.mp3",
+    "type": "audio"
+  },
+  {
+    "name": "Better Word —Leeland",
+    "file": "musicFiles/Better Word —Leeland.mp3",
+    "type": "audio"
+  }
+]
